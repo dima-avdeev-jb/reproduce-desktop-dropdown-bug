@@ -11,3 +11,6 @@ https://user-images.githubusercontent.com/99798741/210183438-11cdb196-1015-458a-
 ```bash
 ./gradlew run
 ```
+
+Check focusable and non focusable Popup's
+Simplest fix - not send mouse up, if mouse down not appear.
